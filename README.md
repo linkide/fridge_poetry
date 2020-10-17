@@ -9,3 +9,4 @@ Random drag and drop word selection to inspire poetry
 - Include 10 occurances of all articles and particles in Table 2
 - Add an option to summon individual words on command (to encourage inspiration)
 - Add an option to save the outcome as a .txt file
+- Add an option to change languages (fi, de)
