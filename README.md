@@ -7,4 +7,5 @@ Random drag and drop word selection to inspire poetry
 - Another table to store only articles and prepositions: Table 2
 - Select 200 random words to be shown as Angular drag and drop boxes
 - Include 10 occurances of all articles and particles in Table 2
+- Add an option to summon individual words on command (to encourage inspiration)
 - Add an option to save the outcome as a .txt file
